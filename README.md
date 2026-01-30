@@ -1,4 +1,4 @@
-# Hi there 👋 I'm Ozodbek  
+# Hi there 👋 I'm Bek  
 
 Welcome to my GitHub profile! I am an **Android Engineer** and **Software Developer** with over **3 years of professional experience** building scalable and user-focused mobile applications. I specialize in delivering clean, maintainable, and high-quality Android solutions with **Kotlin** and **Jetpack Compose**.  
 
@@ -7,7 +7,7 @@ Welcome to my GitHub profile! I am an **Android Engineer** and **Software Develo
 - 🔭 **Current Focus:** Building Android apps with **Kotlin**, **Jetpack Compose**, **MVVM/MVI**, and modern tools (Hilt, Coroutines, Room, Retrofit).  
 - 🌐 **Location:** Based in Poland, originally from Uzbekistan 🇺🇿, working with international teams across Europe.  
 - 🌱 **Always Learning:** Pursuing a **Bachelor’s in Cyber Security**, expanding into mobile security.  
-- 📫 **Contact Me:** [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mrokarimov/) | [![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/mrokarimov)  
+- 📫 **Contact Me:** [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/bek-k/) | [![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/bek-k)  
 
 ## 🎓 Academic Background  
 
@@ -34,6 +34,9 @@ Welcome to my GitHub profile! I am an **Android Engineer** and **Software Develo
 
 ## 💼 Professional Experience  
 
+### **Android Engineer @ Digital Turbine(SDK development)**  
+- Amazing work on progress..
+
 ### **Android Engineer @ Epix Labs (Car Rental/Sharing)**  
 - Developed and scaled a mobile platform for car-sharing with advanced map integration and real-time tracking.  
 - Improved performance and app responsiveness through optimization and modularization.  
@@ -54,12 +57,12 @@ Welcome to my GitHub profile! I am an **Android Engineer** and **Software Develo
 
 I’m passionate about **mobile development and security**, aiming to combine Android engineering with **Cyber Security expertise** to build safe, scalable, and user-friendly applications. My goal is to keep pushing boundaries in mobile engineering while contributing to impactful, real-world projects.  
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=mrokarimov&show_icons=true&theme=radical)  
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=bek-k&show_icons=true&theme=radical)  
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=mrokarimov&layout=compact&theme=radical)  
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=bek-k&layout=compact&theme=radical)  
 
-![Streak Stats](https://github-readme-streak-stats.herokuapp.com/?user=mrokarimov&theme=radical)  
+![Streak Stats](https://github-readme-streak-stats.herokuapp.com/?user=bek-k&theme=radical)  
 
 ---  
 
-Thanks for stopping by! Feel free to explore my repositories or connect with me on [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mrokarimov/) 🌍  
+Thanks for stopping by! Feel free to explore my repositories or connect with me on [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/bek-k/) 🌍  
