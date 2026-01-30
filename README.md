@@ -7,7 +7,7 @@ Welcome to my GitHub profile! I am an **Android Engineer** and **Software Develo
 - 🔭 **Current Focus:** Building Android apps with **Kotlin**, **Jetpack Compose**, **MVVM/MVI**, and modern tools (Hilt, Coroutines, Room, Retrofit).  
 - 🌐 **Location:** Based in Poland, originally from Uzbekistan 🇺🇿, working with international teams across Europe.  
 - 🌱 **Always Learning:** Pursuing a **Bachelor’s in Cyber Security**, expanding into mobile security.  
-- 📫 **Contact Me:** [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/bek-k/) | [![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/bek-k)  
+- 📫 **Contact Me:** [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/bek-karimov/) | [![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/bek-k)  
 
 ## 🎓 Academic Background  
 
@@ -65,4 +65,4 @@ I’m passionate about **mobile development and security**, aiming to combine An
 
 ---  
 
-Thanks for stopping by! Feel free to explore my repositories or connect with me on [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/bek-k/) 🌍  
+Thanks for stopping by! Feel free to explore my repositories or connect with me on [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/bek-karimov/) 🌍  
