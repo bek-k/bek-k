@@ -37,7 +37,7 @@ Welcome to my GitHub profile! I am an **Android Engineer** and **Software Develo
 ### **Android Engineer @ Digital Turbine(SDK development)**  
 - Amazing work on progress..
 
-### **Android Engineer @ Epix Labs (Car Rental/Sharing)**  
+### **Android Developer @ Epix Labs (Car Rental/Sharing)**  
 - Developed and scaled a mobile platform for car-sharing with advanced map integration and real-time tracking.  
 - Improved performance and app responsiveness through optimization and modularization.  
 - Contributed to analytics implementation and feature growth in a fast-moving startup environment.  
@@ -47,7 +47,7 @@ Welcome to my GitHub profile! I am an **Android Engineer** and **Software Develo
 - Improved networking and caching for more reliable performance.  
 - Collaborated with team members and contributed to onboarding and mentoring activities.  
 
-### **Software Engineer @ MixMove (SaaS Logistics)**  
+### **Android Developer @ MixMove (SaaS Logistics)**  
 - Delivered Android solutions for logistics and supply chain management.  
 - Built backend-driven UI systems and integrated analytics tracking.  
 - Focused on stability, testing, and long-term maintainability of the application.  
