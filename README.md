@@ -10,8 +10,6 @@ Welcome to my GitHub profile! I'm an Android Engineer with 4+ years of experienc
 
 - 📈 Passionate about performance optimization, engineering quality, and solving complex technical challenges.
 
-- 📫 **Contact Me:** [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/bek-karimov/) | [![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/bek-k)  
-
 ## 🎓 Academic Background  
 
 - **Bachelor’s in Cyber Security** (In Progress)  
@@ -23,17 +21,6 @@ Welcome to my GitHub profile! I'm an Android Engineer with 4+ years of experienc
 ![Kotlin](https://img.shields.io/badge/Kotlin-7F52FF?style=for-the-badge&logo=kotlin&logoColor=white)  
 ![Java](https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white)  
 ![Swift](https://img.shields.io/badge/Swift-FA7343?style=for-the-badge&logo=swift&logoColor=white)  
-
-### Tools and Platforms  
-![Android](https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white)  
-![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)  
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)  
-![Azure](https://img.shields.io/badge/Azure-0078D4?style=for-the-badge&logo=microsoft-azure&logoColor=white)  
-![Room](https://img.shields.io/badge/Room-1572B6?style=for-the-badge&logo=room&logoColor=white)  
-
-### Agile and DevOps  
-![Scrum](https://img.shields.io/badge/Scrum-6DB33F?style=for-the-badge&logo=scrumalliance&logoColor=white)  
-![CI/CD](https://img.shields.io/badge/CI/CD-EC4A3F?style=for-the-badge&logo=gitlab&logoColor=white)  
 
 ## 💼 Professional Experience  
 
