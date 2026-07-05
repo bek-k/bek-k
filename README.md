@@ -1,12 +1,16 @@
 # Hi there 👋 I'm Bek  
 
-Welcome to my GitHub profile! I am an **Android Engineer** and **Software Developer** with over **3 years of professional experience** building scalable and user-focused mobile applications. I specialize in delivering clean, maintainable, and high-quality Android solutions with **Kotlin** and **Jetpack Compose**.  
+Welcome to my GitHub profile! I'm an Android Engineer with 4+ years of experience building scalable and high-performance mobile applications. Strong expertise in Kotlin, Jetpack Compose, Clean Architecture, SOLID principles, MVVM, and MVI.
+.
 
 ## 🌟 About Me  
 
-- 🔭 **Current Focus:** Building Android apps with **Kotlin**, **Jetpack Compose**, **MVVM/MVI**, and modern tools (Hilt, Coroutines, Room, Retrofit).  
-- 🌐 **Location:** Based in Poland, originally from Uzbekistan 🇺🇿, working with international teams across Europe.  
-- 🌱 **Always Learning:** Pursuing a **Bachelor’s in Cyber Security**, expanding into mobile security.  
+- 🚀 Contributing to mobile platforms reaching 3B+ monthly users across 1B+ Android devices through 40+ OEM and operator partners.
+
+- 🧩 Experienced in multi-module architectures, SDK development, and CI/CD pipelines, with a focus on building reliable and maintainable systems at scale.
+
+- 📈 Passionate about performance optimization, engineering quality, and solving complex technical challenges.
+
 - 📫 **Contact Me:** [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/bek-karimov/) | [![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/bek-k)  
 
 ## 🎓 Academic Background  
@@ -34,23 +38,26 @@ Welcome to my GitHub profile! I am an **Android Engineer** and **Software Develo
 
 ## 💼 Professional Experience  
 
-### **Android Engineer @ Digital Turbine(SDK development)**  
-- Amazing work on progress..
+### **Android Engineer @ Digital Turbine **  
+• Contributing to the development of the Ignite SDK as part of a 15-engineer team, powering large-scale app distribution and engagement experiences across 1B+ Android devices, reaching 3B+ monthly users through 40+ OEM and operator partners and 80K+ integrated applications.
+• Designing, implementing, and maintaining Android features using Kotlin, Coroutines, AIDL, Jetpack Compose, and Clean Architecture within a large-scale multi-module codebase consisting of 25+ modules.
+• Collaborating closely with product managers, QA engineers, designers, and backend teams to deliver high-quality features, participate in code reviews, drive technical discussions, and maintain engineering best practices.
+• Investigating, troubleshooting, and resolving production issues in a high-scale mobile ecosystem, ensuring reliability, performance, and seamless user experiences across a diverse Android device landscape.
+• Contributing to feature development across app discovery, installation, permissions, and user engagement flows while adhering to scalable architecture patterns and modern Android development standards.
 
-### **Android Developer @ Epix Labs (Car Rental/Sharing)**  
-- Developed and scaled a mobile platform for car-sharing with advanced map integration and real-time tracking.  
-- Improved performance and app responsiveness through optimization and modularization.  
-- Contributed to analytics implementation and feature growth in a fast-moving startup environment.  
+### **Android Developer @ Epix Labs **  
+• Developed modern rent-a-car mobile application as part of a dynamic team of 5 Android developers, designed to support over 100 vehicles across three major transport firms.
+• Utilized modern Android development tools and practices, including Kotlin, Coroutines, Jetpack Compose, Retrofit, Clean and MVVM architecture, to maintain a scalable and maintainable codebase.
+• Participated in code reviews and mentoring sessions fostering a culture of excellence and continuous improvement.
 
-### **Android Developer @ Techline Studio (LMS App)**  
-- Supported migration of core features to Kotlin and modern Android frameworks.  
-- Improved networking and caching for more reliable performance.  
-- Collaborated with team members and contributed to onboarding and mentoring activities.  
+### **Android Developer @ Techline Studio **  
+• Worked in a team of 4 members and was a proactive team player in structuring REST APIs by participating in group meetings and Slack discussions with backend developers
+• Developed an Android app from scratch according to UI design provided following MVVM architectural pattern, Clean Architecture, Android design and interface guidelines
+• Conducted unit and integration testing using JUnit Espresso and Mockito to ensure reliability and reduce bugs.
 
-### **Android Developer @ MixMove (SaaS Logistics)**  
-- Delivered Android solutions for logistics and supply chain management.  
-- Built backend-driven UI systems and integrated analytics tracking.  
-- Focused on stability, testing, and long-term maintainability of the application.  
+### **Android Developer @ Mixmove IT Group **  
+• Developed backend-driven UI architecture, where screens and interactions are defined by JSON, enabling instant UX updates without app releases and functioning like a lightweight mobile browser engine.
+• Leveraged advanced Android SDK features Kotlin Coroutines Dagger Hilt multi-module setup and Clean Architecture to streamline shipment processes and ensure smooth app performance while collaborating with backend QA and designers to deliver features seamlessly.  
 
 
 ## 🌟 What Drives Me  
