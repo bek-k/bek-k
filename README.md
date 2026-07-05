@@ -1,7 +1,6 @@
 # Hi there 👋 I'm Bek  
 
 Welcome to my GitHub profile! I'm an Android Engineer with 4+ years of experience building scalable and high-performance mobile applications. Strong expertise in Kotlin, Jetpack Compose, Clean Architecture, SOLID principles, MVVM, and MVI.
-.
 
 ## 🌟 About Me  
 
