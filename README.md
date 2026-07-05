@@ -39,9 +39,13 @@ Welcome to my GitHub profile! I'm an Android Engineer with 4+ years of experienc
 
 ### **Android Engineer @ Digital Turbine **  
 • Contributing to the development of the Ignite SDK as part of a 15-engineer team, powering large-scale app distribution and engagement experiences across 1B+ Android devices, reaching 3B+ monthly users through 40+ OEM and operator partners and 80K+ integrated applications.
+
 • Designing, implementing, and maintaining Android features using Kotlin, Coroutines, AIDL, Jetpack Compose, and Clean Architecture within a large-scale multi-module codebase consisting of 25+ modules.
+
 • Collaborating closely with product managers, QA engineers, designers, and backend teams to deliver high-quality features, participate in code reviews, drive technical discussions, and maintain engineering best practices.
+
 • Investigating, troubleshooting, and resolving production issues in a high-scale mobile ecosystem, ensuring reliability, performance, and seamless user experiences across a diverse Android device landscape.
+
 • Contributing to feature development across app discovery, installation, permissions, and user engagement flows while adhering to scalable architecture patterns and modern Android development standards.
 
 ### **Android Developer @ Epix Labs **  
