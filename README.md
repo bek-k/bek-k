@@ -50,16 +50,21 @@ Welcome to my GitHub profile! I'm an Android Engineer with 4+ years of experienc
 
 ### **Android Developer @ Epix Labs **  
 • Developed modern rent-a-car mobile application as part of a dynamic team of 5 Android developers, designed to support over 100 vehicles across three major transport firms.
+
 • Utilized modern Android development tools and practices, including Kotlin, Coroutines, Jetpack Compose, Retrofit, Clean and MVVM architecture, to maintain a scalable and maintainable codebase.
+
 • Participated in code reviews and mentoring sessions fostering a culture of excellence and continuous improvement.
 
 ### **Android Developer @ Techline Studio **  
-• Worked in a team of 4 members and was a proactive team player in structuring REST APIs by participating in group meetings and Slack discussions with backend developers
-• Developed an Android app from scratch according to UI design provided following MVVM architectural pattern, Clean Architecture, Android design and interface guidelines
+• Worked in a team of 4 members and was a proactive team player in structuring REST APIs by participating in group meetings and Slack discussions with backend developers.
+
+• Developed an Android app from scratch according to UI design provided following MVVM architectural pattern, Clean Architecture, Android design and interface guidelines.
+
 • Conducted unit and integration testing using JUnit Espresso and Mockito to ensure reliability and reduce bugs.
 
 ### **Android Developer @ Mixmove IT Group **  
 • Developed backend-driven UI architecture, where screens and interactions are defined by JSON, enabling instant UX updates without app releases and functioning like a lightweight mobile browser engine.
+
 • Leveraged advanced Android SDK features Kotlin Coroutines Dagger Hilt multi-module setup and Clean Architecture to streamline shipment processes and ensure smooth app performance while collaborating with backend QA and designers to deliver features seamlessly.  
 
 
