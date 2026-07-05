@@ -12,8 +12,9 @@ Welcome to my GitHub profile! I'm an Android Engineer with 4+ years of experienc
 
 ## 🎓 Academic Background  
 
-- **Bachelor’s in Cyber Security** (In Progress)  
-  - Focusing on secure coding, application security, and vulnerability assessment.  
+- **Bachelor’s in Cyber Security at Vistula University [Poland/Warsaw]** (In Progress)  
+  - Focusing on secure coding, application security, and vulnerability assessment.
+    
 
 ## 🛠️ Skills and Tools  
 
