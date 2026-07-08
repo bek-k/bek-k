@@ -1,71 +1,87 @@
-# Hi there 👋 I'm Bek  
+# Hi, I'm Bek 👋
 
-Welcome to my GitHub profile! I'm an Android Engineer with 4+ years of experience building scalable and high-performance mobile applications. Strong expertise in Kotlin, Jetpack Compose, Clean Architecture, SOLID principles, MVVM, and MVI.
+**Mobile Software Engineer** based in Warsaw, Poland.
 
-## 🌟 About Me  
+Currently building software at **Digital Turbine**, contributing to the Ignite SDK powering app distribution across **1B+ Android devices**, **3B+ monthly users**, **80K+ applications**, and **40+ OEM & operator partners**.
 
-- 🚀 Contributing to mobile platforms reaching 3B+ monthly users across 1B+ Android devices through 40+ OEM and operator partners.
+Recently, my focus has expanded beyond Android toward **Software Engineering** fundamentals, including distributed systems, system design, algorithms, networking, operating systems, and performance engineering.
 
-- 🧩 Experienced in multi-module architectures, SDK development, and CI/CD pipelines, with a focus on building reliable and maintainable systems at scale.
+---
 
-- 📈 Passionate about performance optimization, engineering quality, and solving complex technical challenges.
+## 🚀 Current Focus
 
-## 🎓 Academic Background  
+- Software Engineering
+- Android & Kotlin
+- Kotlin Multiplatform
+- System Design
+- Data Structures & Algorithms
+- Distributed Systems
+- Performance Engineering
+- AI-assisted Development
 
-- **Bachelor’s in Cyber Security at Vistula University** (In Progress)  
-  - Focusing on secure coding, application security, and vulnerability assessment.
-    
+---
 
-## 🛠️ Skills and Tools  
+## 💼 Experience
 
-### Languages and Frameworks  
-![Kotlin](https://img.shields.io/badge/Kotlin-7F52FF?style=for-the-badge&logo=kotlin&logoColor=white)  
-![Java](https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white)  
-![Swift](https://img.shields.io/badge/Swift-FA7343?style=for-the-badge&logo=swift&logoColor=white)  
+### Android Engineer · Digital Turbine
+Building large-scale mobile infrastructure and SDKs powering app distribution across 1B+ Android devices.
 
-## 💼 Professional Experience  
+### Android Developer · Epix Labs
+Developed and maintained modern Android applications using Kotlin, Jetpack Compose and Clean Architecture.
 
-### Android Engineer @ Digital Turbine  
-• Contributing to the development of the Ignite SDK as part of a 15-engineer team, powering large-scale app distribution and engagement experiences across 1B+ Android devices, reaching 3B+ monthly users through 40+ OEM and operator partners and 80K+ integrated applications.
+### Android Developer · Techline Studio
+Built production Android applications from scratch while collaborating closely with backend teams.
 
-• Designing, implementing, and maintaining Android features using Kotlin, Coroutines, AIDL, Jetpack Compose, and Clean Architecture within a large-scale multi-module codebase consisting of 25+ modules.
+### Android Developer · MixMove IT Group
+Developed backend-driven Android applications with scalable architecture and dynamic UI systems.
 
-• Collaborating closely with product managers, QA engineers, designers, and backend teams to deliver high-quality features, participate in code reviews, drive technical discussions, and maintain engineering best practices.
+---
 
-• Investigating, troubleshooting, and resolving production issues in a high-scale mobile ecosystem, ensuring reliability, performance, and seamless user experiences across a diverse Android device landscape.
+## 🛠 Tech Stack
 
-• Contributing to feature development across app discovery, installation, permissions, and user engagement flows while adhering to scalable architecture patterns and modern Android development standards.
+### Mobile
+Kotlin • Java • Jetpack Compose • Android SDK • Kotlin Multiplatform • Flutter • iOS
 
-### Android Developer @ Epix Labs 
-• Developed modern rent-a-car mobile application as part of a dynamic team of 5 Android developers, designed to support over 100 vehicles across three major transport firms.
+### Architecture
+Clean Architecture • MVVM • MVI • SOLID • Design Patterns
 
-• Utilized modern Android development tools and practices, including Kotlin, Coroutines, Jetpack Compose, Retrofit, Clean and MVVM architecture, to maintain a scalable and maintainable codebase.
+### Networking & Backend
+Ktor • Retrofit • REST APIs • JSON • AIDL
 
-• Participated in code reviews and mentoring sessions fostering a culture of excellence and continuous improvement.
+### Tools
+Android Studio • IntelliJ IDEA • Git • Jenkins • Firebase • Room • Koin • Hilt
 
-### Android Developer @ Techline Studio 
-• Worked in a team of 4 members and was a proactive team player in structuring REST APIs by participating in group meetings and Slack discussions with backend developers.
+---
 
-• Developed an Android app from scratch according to UI design provided following MVVM architectural pattern, Clean Architecture, Android design and interface guidelines.
+## 📚 Currently Learning
 
-• Conducted unit and integration testing using JUnit Espresso and Mockito to ensure reliability and reduce bugs.
+I'm currently investing most of my learning time in:
 
-### Android Developer @ Mixmove IT Group
-• Developed backend-driven UI architecture, where screens and interactions are defined by JSON, enabling instant UX updates without app releases and functioning like a lightweight mobile browser engine.
+- Data Structures & Algorithms
+- Distributed Systems
+- Operating Systems
+- Networking
+- Database Internals
+- Software Architecture
+- Performance Engineering
+- Security
 
-• Leveraged advanced Android SDK features Kotlin Coroutines Dagger Hilt multi-module setup and Clean Architecture to streamline shipment processes and ensure smooth app performance while collaborating with backend QA and designers to deliver features seamlessly.  
+---
 
+## 📈 GitHub Stats
 
-## 🌟 What Drives Me  
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=bek-k&show_icons=true&hide_border=true)
 
-I’m passionate about **mobile development and security**, aiming to combine Android engineering with **Cyber Security expertise** to build safe, scalable, and user-friendly applications. My goal is to keep pushing boundaries in mobile engineering while contributing to impactful, real-world projects.  
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=bek-k&layout=compact&hide_border=true)
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=bek-k&show_icons=true&theme=radical)  
+---
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=bek-k&layout=compact&theme=radical)  
+## 🌍 Connect
 
-![Streak Stats](https://github-readme-streak-stats.herokuapp.com/?user=bek-k&theme=radical)  
+- LinkedIn: https://www.linkedin.com/in/bek-karimov
+- Telegram: https://t.me/bek_engineer
+- Email: bekdev.eu@gmail.com
 
----  
+---
 
-Thanks for stopping by! Feel free to explore my repositories or connect with me on [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/bek-karimov/) 🌍  
+> *Frameworks change. Platforms change. Strong engineering fundamentals stay.*
