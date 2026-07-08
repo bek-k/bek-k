@@ -1,4 +1,4 @@
-Hi there 👋 I am Bek, Mobile Software Engineer at Digital Turbine.
+Hi there 👋 I am Bek, Android Engineer at Digital Turbine.
 
 - I build software powering 1B+ Android devices.
 - I write about Software Engineering, Mobile and AI on [Telegram](https://t.me/bek_engineer).
